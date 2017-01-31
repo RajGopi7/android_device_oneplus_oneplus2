@@ -68,7 +68,7 @@ ro.pip.gated=0
 persist.hwc.mdpcomp.enable=true
 dalvik.vm.heapsize=36m
 ro.qualcomm.cabl=0
-ro.sf.lcd_density=480
+ro.sf.lcd_density=420
 ro.opengles.version=196610
 
 # QC vendor extension
