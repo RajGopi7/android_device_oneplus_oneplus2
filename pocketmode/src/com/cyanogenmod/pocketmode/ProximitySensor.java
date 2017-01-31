@@ -22,7 +22,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.util.Log;
-import com.cyanogenmod.pocketmode.util.FileUtils;
+import org.cyanogenmod.internal.util.FileUtils;
 
 public class ProximitySensor implements SensorEventListener {
 
